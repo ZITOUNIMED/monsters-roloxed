@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ZITOUNIMED/monsters-roloxed/static/css/main.d84d236b.chunk.css",
-    "main.js": "/ZITOUNIMED/monsters-roloxed/static/js/main.3be8b759.chunk.js",
-    "main.js.map": "/ZITOUNIMED/monsters-roloxed/static/js/main.3be8b759.chunk.js.map",
-    "runtime~main.js": "/ZITOUNIMED/monsters-roloxed/static/js/runtime~main.2d6b8b5e.js",
-    "runtime~main.js.map": "/ZITOUNIMED/monsters-roloxed/static/js/runtime~main.2d6b8b5e.js.map",
-    "static/js/2.66a46975.chunk.js": "/ZITOUNIMED/monsters-roloxed/static/js/2.66a46975.chunk.js",
-    "static/js/2.66a46975.chunk.js.map": "/ZITOUNIMED/monsters-roloxed/static/js/2.66a46975.chunk.js.map",
-    "index.html": "/ZITOUNIMED/monsters-roloxed/index.html",
-    "precache-manifest.fdbef7c6a10d57cb8d0b878d9a143446.js": "/ZITOUNIMED/monsters-roloxed/precache-manifest.fdbef7c6a10d57cb8d0b878d9a143446.js",
-    "service-worker.js": "/ZITOUNIMED/monsters-roloxed/service-worker.js",
-    "static/css/main.d84d236b.chunk.css.map": "/ZITOUNIMED/monsters-roloxed/static/css/main.d84d236b.chunk.css.map"
+    "main.css": "/monsters-roloxed/static/css/main.d84d236b.chunk.css",
+    "main.js": "/monsters-roloxed/static/js/main.4f983034.chunk.js",
+    "main.js.map": "/monsters-roloxed/static/js/main.4f983034.chunk.js.map",
+    "runtime~main.js": "/monsters-roloxed/static/js/runtime~main.ac77e60f.js",
+    "runtime~main.js.map": "/monsters-roloxed/static/js/runtime~main.ac77e60f.js.map",
+    "static/js/2.66a46975.chunk.js": "/monsters-roloxed/static/js/2.66a46975.chunk.js",
+    "static/js/2.66a46975.chunk.js.map": "/monsters-roloxed/static/js/2.66a46975.chunk.js.map",
+    "index.html": "/monsters-roloxed/index.html",
+    "precache-manifest.dbefb5167a008e6446dba4c357a6568f.js": "/monsters-roloxed/precache-manifest.dbefb5167a008e6446dba4c357a6568f.js",
+    "service-worker.js": "/monsters-roloxed/service-worker.js",
+    "static/css/main.d84d236b.chunk.css.map": "/monsters-roloxed/static/css/main.d84d236b.chunk.css.map"
   }
 }
